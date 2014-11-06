@@ -1,0 +1,15 @@
+<repositories version="1.0">
+	<repo quality="experimental" status="unofficial">
+		<name>kokakolako-overlay</name>
+		<description>
+			My personal Funtoo Overlay
+		</description>
+		<homepage>
+            https://github.com/kokakolako/overlay
+		</homepage>
+		<owner>
+            <email>waterkoka@gmail.com</email>
+		</owner>
+		<source type="git">git://github.com/kokakolako/overlay.git</source>
+	</repo>
+</repositories>
